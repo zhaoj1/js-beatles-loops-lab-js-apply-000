@@ -23,4 +23,5 @@ function iLoveTheBeatles(n){
     arr.push("I love the Beatles!");
     i++;
   }
+  while(n<7)
 }
